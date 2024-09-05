@@ -1,3 +1,5 @@
+//WITHOUT FUNCTIONS
+
 #include <iostream>
 using namespace std;
 
